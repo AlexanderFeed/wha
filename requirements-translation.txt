@@ -1,0 +1,2 @@
+# Optional, for offline German-to-English translations of senses missing in Kaikki.
+argostranslate>=1.11,<2

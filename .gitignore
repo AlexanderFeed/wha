@@ -1,0 +1,7 @@
+web/node_modules/
+web/dist/
+data/sources/
+__pycache__/
+server.exe
+server.exe~
+.env

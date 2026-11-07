@@ -1,0 +1,1842 @@
+{
+  "levelUnverified": true,
+  "entries": [
+    {
+      "id": "warten-auf-akk",
+      "verb": "warten",
+      "preposition": "auf",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to wait for",
+      "examples": [
+        "Ich warte {auf} den Bus."
+      ]
+    },
+    {
+      "id": "denken-an-akk",
+      "verb": "denken",
+      "preposition": "an",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to think of/about",
+      "examples": [
+        "Denkst du {an} den Termin?"
+      ],
+      "notes": "Denken über exists in a different meaning."
+    },
+    {
+      "id": "freuen-auf-akk",
+      "verb": "freuen",
+      "preposition": "auf",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "A2",
+      "translation": "to look forward to",
+      "examples": [
+        "Ich freue mich {auf} den Urlaub im Sommer."
+      ]
+    },
+    {
+      "id": "freuen-ueber-akk",
+      "verb": "freuen",
+      "preposition": "über",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "A2",
+      "translation": "to be pleased about",
+      "examples": [
+        "Sie freut sich {über} das Geschenk, das sie gestern bekommen hat."
+      ]
+    },
+    {
+      "id": "interessieren-fuer-akk",
+      "verb": "interessieren",
+      "preposition": "für",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "A2",
+      "translation": "to be interested in",
+      "examples": [
+        "Er interessiert sich {für} deutsche Geschichte."
+      ]
+    },
+    {
+      "id": "teilnehmen-an-dat",
+      "verb": "teilnehmen",
+      "preposition": "an",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "B1",
+      "translation": "to take part in",
+      "examples": [
+        "Morgen nehme ich {an} der Besprechung teil."
+      ]
+    },
+    {
+      "id": "traeumen-von-dat",
+      "verb": "träumen",
+      "preposition": "von",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to dream of/about",
+      "examples": [
+        "Sie träumt {von} einem langen Urlaub."
+      ]
+    },
+    {
+      "id": "bewerben-um-akk",
+      "verb": "bewerben",
+      "preposition": "um",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "B1",
+      "translation": "to apply for",
+      "examples": [
+        "Ich bewerbe mich {um} eine neue Stelle."
+      ],
+      "acceptedPrepositions": [
+        "auf"
+      ]
+    },
+    {
+      "id": "bestehen-aus-dat",
+      "verb": "bestehen",
+      "preposition": "aus",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "B1",
+      "translation": "to consist of",
+      "examples": [
+        "Das Team besteht {aus} fünf Personen."
+      ]
+    },
+    {
+      "id": "sprechen-mit-dat",
+      "verb": "sprechen",
+      "preposition": "mit",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to speak with",
+      "examples": [
+        "Ich spreche {mit} meiner Lehrerin."
+      ]
+    },
+    {
+      "id": "sprechen-ueber-akk",
+      "verb": "sprechen",
+      "preposition": "über",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to talk about",
+      "examples": [
+        "Wir sprechen {über} den neuen Film."
+      ]
+    },
+    {
+      "id": "erinnern-an-akk",
+      "verb": "erinnern",
+      "preposition": "an",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "B1",
+      "translation": "to remember",
+      "examples": [
+        "Erinnerst du dich {an} unseren ersten Ausflug?"
+      ]
+    },
+    {
+      "id": "kuemmern-um-akk",
+      "verb": "kümmern",
+      "preposition": "um",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "B1",
+      "translation": "to take care of",
+      "examples": [
+        "Sie kümmert sich {um} ihre kleinen Geschwister."
+      ]
+    },
+    {
+      "id": "bitten-um-akk",
+      "verb": "bitten",
+      "preposition": "um",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to ask for",
+      "examples": [
+        "Darf ich dich {um} einen Rat bitten?"
+      ]
+    },
+    {
+      "id": "danken-fuer-akk",
+      "verb": "danken",
+      "preposition": "für",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to thank for",
+      "examples": [
+        "Ich danke dir {für} deine Hilfe."
+      ]
+    },
+    {
+      "id": "helfen-bei-dat",
+      "verb": "helfen",
+      "preposition": "bei",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to help with",
+      "examples": [
+        "Kannst du mir {bei} der Aufgabe helfen?"
+      ],
+      "acceptedPrepositions": [
+        "mit"
+      ]
+    },
+    {
+      "id": "gehoeren-zu-dat",
+      "verb": "gehören",
+      "preposition": "zu",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to belong to",
+      "examples": [
+        "Dieses Buch gehört {zu} meiner Sammlung."
+      ]
+    },
+    {
+      "id": "einladen-zu-dat",
+      "verb": "einladen",
+      "preposition": "zu",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to invite to",
+      "examples": [
+        "Wir laden euch {zu} unserer Feier ein."
+      ]
+    },
+    {
+      "id": "entschuldigen-fuer-akk",
+      "verb": "entschuldigen",
+      "preposition": "für",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "A2",
+      "translation": "to apologize for",
+      "examples": [
+        "Ich entschuldige mich {für} die Verspätung."
+      ]
+    },
+    {
+      "id": "entschuldigen-bei-dat",
+      "verb": "entschuldigen",
+      "preposition": "bei",
+      "case": "dativ",
+      "reflexive": true,
+      "level": "B1",
+      "translation": "to apologize to",
+      "examples": [
+        "Sie entschuldigt sich {bei} ihrem Nachbarn."
+      ]
+    },
+    {
+      "id": "vorbereiten-auf-akk",
+      "verb": "vorbereiten",
+      "preposition": "auf",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "B1",
+      "translation": "to prepare for",
+      "examples": [
+        "Wir bereiten uns {auf} die Prüfung vor."
+      ]
+    },
+    {
+      "id": "entscheiden-fuer-akk",
+      "verb": "entscheiden",
+      "preposition": "für",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "B1",
+      "translation": "to decide in favor of",
+      "examples": [
+        "Sie entscheidet sich {für} den roten Mantel."
+      ]
+    },
+    {
+      "id": "abhaengen-von-dat",
+      "verb": "abhängen",
+      "preposition": "von",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "B1",
+      "translation": "to depend on",
+      "examples": [
+        "Der Erfolg hängt {von} einer guten Planung ab."
+      ]
+    },
+    {
+      "id": "beschaeftigen-mit-dat",
+      "verb": "beschäftigen",
+      "preposition": "mit",
+      "case": "dativ",
+      "reflexive": true,
+      "level": "B1",
+      "translation": "to deal with",
+      "examples": [
+        "Wir beschäftigen uns {mit} einem neuen Thema."
+      ]
+    },
+    {
+      "id": "erkundigen-nach-dat",
+      "verb": "erkundigen",
+      "preposition": "nach",
+      "case": "dativ",
+      "reflexive": true,
+      "level": "B1",
+      "translation": "to ask about",
+      "examples": [
+        "Er erkundigt sich {nach} dem Weg."
+      ]
+    },
+    {
+      "id": "zweifeln-an-dat",
+      "verb": "zweifeln",
+      "preposition": "an",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "B2",
+      "translation": "to doubt",
+      "examples": [
+        "Niemand zweifelt {an} seiner Ehrlichkeit."
+      ]
+    },
+    {
+      "id": "bestehen-auf-dat",
+      "verb": "bestehen",
+      "preposition": "auf",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "B2",
+      "translation": "to insist on",
+      "examples": [
+        "Sie besteht {auf} einer schriftlichen Bestätigung."
+      ],
+      "notes": "Dativ is the standard pattern here; Wiktionary also records a rare Akkusativ variant."
+    },
+    {
+      "id": "beschweren-ueber-akk",
+      "verb": "beschweren",
+      "preposition": "über",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "B1",
+      "translation": "to complain about",
+      "examples": [
+        "Der Gast beschwert sich {über} den kalten Kaffee."
+      ]
+    },
+    {
+      "id": "beduerfen-ohne-praep-gen",
+      "verb": "bedürfen",
+      "preposition": "",
+      "case": "genitiv",
+      "reflexive": false,
+      "level": "B2",
+      "translation": "to require; to need",
+      "examples": [
+        "Das Projekt bedarf {} einer klaren Struktur."
+      ]
+    },
+    {
+      "id": "enthalten-ohne-praep-gen",
+      "verb": "enthalten",
+      "preposition": "",
+      "case": "genitiv",
+      "reflexive": true,
+      "level": "B2",
+      "translation": "to refrain from",
+      "examples": [
+        "Er enthielt sich {} jeder Stellungnahme."
+      ]
+    },
+    {
+      "id": "antworten-auf-akk",
+      "verb": "antworten",
+      "preposition": "auf",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to answer",
+      "examples": [
+        "Der Kunde antwortet {auf} die E-Mail."
+      ]
+    },
+    {
+      "id": "gratulieren-zu-dat",
+      "verb": "gratulieren",
+      "preposition": "zu",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to congratulate on",
+      "examples": [
+        "Wir gratulieren dir {zu} deinem Abschluss."
+      ]
+    },
+    {
+      "id": "passen-zu-dat",
+      "verb": "passen",
+      "preposition": "zu",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to match; to go with",
+      "examples": [
+        "Die Schuhe passen {zu} dem Kleid."
+      ]
+    },
+    {
+      "id": "riechen-nach-dat",
+      "verb": "riechen",
+      "preposition": "nach",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to smell of",
+      "examples": [
+        "Die Suppe riecht {nach} frischen Kräutern."
+      ]
+    },
+    {
+      "id": "schmecken-nach-dat",
+      "verb": "schmecken",
+      "preposition": "nach",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to taste of",
+      "examples": [
+        "Der Tee schmeckt {nach} Minze."
+      ]
+    },
+    {
+      "id": "hoeren-von-dat",
+      "verb": "hören",
+      "preposition": "von",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to hear about",
+      "examples": [
+        "Hast du {von} dem Konzert gehört?"
+      ]
+    },
+    {
+      "id": "erzaehlen-von-dat",
+      "verb": "erzählen",
+      "preposition": "von",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to tell about",
+      "examples": [
+        "Oma erzählt {von} ihrer Reise."
+      ]
+    },
+    {
+      "id": "fragen-nach-dat",
+      "verb": "fragen",
+      "preposition": "nach",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to ask about; to ask for",
+      "examples": [
+        "Ich frage {nach} dem Weg."
+      ]
+    },
+    {
+      "id": "suchen-nach-dat",
+      "verb": "suchen",
+      "preposition": "nach",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to look for",
+      "examples": [
+        "Wir suchen {nach} einer Lösung."
+      ]
+    },
+    {
+      "id": "rechnen-mit-dat",
+      "verb": "rechnen",
+      "preposition": "mit",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to expect; to reckon with",
+      "examples": [
+        "Rechne {mit} einer Verspätung."
+      ]
+    },
+    {
+      "id": "streiten-mit-dat",
+      "verb": "streiten",
+      "preposition": "mit",
+      "case": "dativ",
+      "reflexive": true,
+      "level": "A2",
+      "translation": "to argue with",
+      "examples": [
+        "Ich streite mich {mit} meinem Bruder."
+      ]
+    },
+    {
+      "id": "fuerchten-vor-dat",
+      "verb": "fürchten",
+      "preposition": "vor",
+      "case": "dativ",
+      "reflexive": true,
+      "level": "A2",
+      "translation": "to be afraid of",
+      "examples": [
+        "Das Kind fürchtet sich {vor} dem Hund."
+      ]
+    },
+    {
+      "id": "angst-haben-vor-dat",
+      "verb": "Angst haben",
+      "preposition": "vor",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to be afraid of",
+      "examples": [
+        "Sie hat Angst {vor} dem Gewitter."
+      ]
+    },
+    {
+      "id": "glauben-an-akk",
+      "verb": "glauben",
+      "preposition": "an",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to believe in",
+      "examples": [
+        "Er glaubt {an} einen Erfolg."
+      ]
+    },
+    {
+      "id": "teilen-durch-akk",
+      "verb": "teilen",
+      "preposition": "durch",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to divide by",
+      "examples": [
+        "Acht geteilt {durch} zwei ist vier."
+      ]
+    },
+    {
+      "id": "bedanken-fuer-akk",
+      "verb": "bedanken",
+      "preposition": "für",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "A2",
+      "translation": "to thank for",
+      "examples": [
+        "Ich bedanke mich {für} deine Hilfe."
+      ]
+    },
+    {
+      "id": "bedanken-bei-dat",
+      "verb": "bedanken",
+      "preposition": "bei",
+      "case": "dativ",
+      "reflexive": true,
+      "level": "A2",
+      "translation": "to thank someone",
+      "examples": [
+        "Ich bedanke mich {bei} meiner Lehrerin."
+      ]
+    },
+    {
+      "id": "treffen-mit-dat",
+      "verb": "treffen",
+      "preposition": "mit",
+      "case": "dativ",
+      "reflexive": true,
+      "level": "A2",
+      "translation": "to meet with",
+      "examples": [
+        "Am Freitag treffe ich mich {mit} meiner Freundin."
+      ]
+    },
+    {
+      "id": "telefonieren-mit-dat",
+      "verb": "telefonieren",
+      "preposition": "mit",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to talk on the phone with",
+      "examples": [
+        "Ich telefoniere {mit} meiner Mutter."
+      ]
+    },
+    {
+      "id": "verabreden-mit-dat",
+      "verb": "verabreden",
+      "preposition": "mit",
+      "case": "dativ",
+      "reflexive": true,
+      "level": "A2",
+      "translation": "to arrange to meet with",
+      "examples": [
+        "Ich verabrede mich {mit} Paul für Samstag."
+      ]
+    },
+    {
+      "id": "spielen-mit-dat",
+      "verb": "spielen",
+      "preposition": "mit",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to play with",
+      "examples": [
+        "Das Kind spielt {mit} seinem Ball."
+      ]
+    },
+    {
+      "id": "lachen-ueber-akk",
+      "verb": "lachen",
+      "preposition": "über",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to laugh about",
+      "examples": [
+        "Wir lachen {über} den Witz."
+      ]
+    },
+    {
+      "id": "anmelden-fuer-akk",
+      "verb": "anmelden",
+      "preposition": "für",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "A2",
+      "translation": "to register for",
+      "examples": [
+        "Ich melde mich {für} den Kurs an."
+      ],
+      "acceptedPrepositions": [
+        "zu"
+      ]
+    },
+    {
+      "id": "anmelden-bei-dat",
+      "verb": "anmelden",
+      "preposition": "bei",
+      "case": "dativ",
+      "reflexive": true,
+      "level": "A2",
+      "translation": "to register with",
+      "examples": [
+        "Melde dich {bei} der Sprachschule an."
+      ]
+    },
+    {
+      "id": "legen-auf-akk",
+      "verb": "legen",
+      "preposition": "auf",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to put onto",
+      "examples": [
+        "Leg die Zeitung {auf} den Tisch."
+      ],
+      "notes": "The Wechselpräposition auf takes Akkusativ here for a destination; compare liegen auf + Dativ.",
+      "gapExercise": false
+    },
+    {
+      "id": "liegen-auf-dat",
+      "verb": "liegen",
+      "preposition": "auf",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to lie on",
+      "examples": [
+        "Die Zeitung liegt {auf} dem Tisch."
+      ],
+      "notes": "The Wechselpräposition auf takes Dativ here for a location; compare legen auf + Akkusativ.",
+      "gapExercise": false
+    },
+    {
+      "id": "stellen-in-akk",
+      "verb": "stellen",
+      "preposition": "in",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to put into",
+      "examples": [
+        "Stell die Flasche {in} den Kühlschrank."
+      ],
+      "notes": "The Wechselpräposition in takes Akkusativ here for a destination; compare stehen in + Dativ.",
+      "gapExercise": false
+    },
+    {
+      "id": "stehen-in-dat",
+      "verb": "stehen",
+      "preposition": "in",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to stand in",
+      "examples": [
+        "Die Flasche steht {in} dem Kühlschrank."
+      ],
+      "notes": "The Wechselpräposition in takes Dativ here for a location; compare stellen in + Akkusativ.",
+      "gapExercise": false
+    },
+    {
+      "id": "anfangen-mit-dat",
+      "verb": "anfangen",
+      "preposition": "mit",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to begin with",
+      "examples": [
+        "Wir fangen {mit} der ersten Übung an."
+      ]
+    },
+    {
+      "id": "aufhoeren-mit-dat",
+      "verb": "aufhören",
+      "preposition": "mit",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to stop doing",
+      "examples": [
+        "Er hört {mit} dem Rauchen auf."
+      ]
+    },
+    {
+      "id": "arbeiten-bei-dat",
+      "verb": "arbeiten",
+      "preposition": "bei",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to work at",
+      "examples": [
+        "Meine Schwester arbeitet {bei} einer Bank."
+      ],
+      "acceptedPrepositions": [
+        "in"
+      ],
+      "notes": "Bei emphasizes the employer; in can also describe working at the bank as a workplace."
+    },
+    {
+      "id": "arbeiten-fuer-akk",
+      "verb": "arbeiten",
+      "preposition": "für",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to work for",
+      "examples": [
+        "Ich arbeite {für} ein kleines Unternehmen."
+      ]
+    },
+    {
+      "id": "reden-ueber-akk",
+      "verb": "reden",
+      "preposition": "über",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to talk about",
+      "examples": [
+        "Wir reden {über} den Urlaub."
+      ]
+    },
+    {
+      "id": "sprechen-von-dat",
+      "verb": "sprechen",
+      "preposition": "von",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to speak of",
+      "examples": [
+        "Er spricht {von} seinem neuen Job."
+      ]
+    },
+    {
+      "id": "riechen-an-dat",
+      "verb": "riechen",
+      "preposition": "an",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "A2",
+      "translation": "to smell; to sniff at",
+      "examples": [
+        "Ich rieche {an} der Rose."
+      ]
+    },
+    {
+      "id": "verlassen-auf-akk",
+      "verb": "verlassen",
+      "preposition": "auf",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "B1",
+      "translation": "to rely on",
+      "examples": [
+        "Ich verlasse mich {auf} deinen Rat."
+      ]
+    },
+    {
+      "id": "gewoehnen-an-akk",
+      "verb": "gewöhnen",
+      "preposition": "an",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "B1",
+      "translation": "to get used to",
+      "examples": [
+        "Sie gewöhnt sich {an} das neue Leben."
+      ]
+    },
+    {
+      "id": "konzentrieren-auf-akk",
+      "verb": "konzentrieren",
+      "preposition": "auf",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "B1",
+      "translation": "to concentrate on",
+      "examples": [
+        "Bitte konzentriere dich {auf} die Aufgabe."
+      ]
+    },
+    {
+      "id": "aergern-ueber-akk",
+      "verb": "ärgern",
+      "preposition": "über",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "B1",
+      "translation": "to be annoyed about",
+      "examples": [
+        "Er ärgert sich {über} den Lärm."
+      ]
+    },
+    {
+      "id": "beteiligen-an-dat",
+      "verb": "beteiligen",
+      "preposition": "an",
+      "case": "dativ",
+      "reflexive": true,
+      "level": "B1",
+      "translation": "to take part in",
+      "examples": [
+        "Viele Bürger beteiligen sich {an} der Diskussion."
+      ]
+    },
+    {
+      "id": "einigen-auf-akk",
+      "verb": "einigen",
+      "preposition": "auf",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "B1",
+      "translation": "to agree on",
+      "examples": [
+        "Wir einigen uns {auf} einen Termin."
+      ],
+      "acceptedPrepositions": [
+        "über"
+      ]
+    },
+    {
+      "id": "einigen-mit-dat",
+      "verb": "einigen",
+      "preposition": "mit",
+      "case": "dativ",
+      "reflexive": true,
+      "level": "B1",
+      "translation": "to reach agreement with",
+      "examples": [
+        "Sie einigt sich {mit} ihrem Geschäftspartner."
+      ]
+    },
+    {
+      "id": "unterhalten-ueber-akk",
+      "verb": "unterhalten",
+      "preposition": "über",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "B1",
+      "translation": "to talk about",
+      "examples": [
+        "Wir unterhalten uns {über} den neuen Film."
+      ]
+    },
+    {
+      "id": "unterhalten-mit-dat",
+      "verb": "unterhalten",
+      "preposition": "mit",
+      "case": "dativ",
+      "reflexive": true,
+      "level": "B1",
+      "translation": "to talk with",
+      "examples": [
+        "Ich unterhalte mich {mit} meiner Nachbarin."
+      ]
+    },
+    {
+      "id": "zusammenarbeiten-mit-dat",
+      "verb": "zusammenarbeiten",
+      "preposition": "mit",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "B1",
+      "translation": "to collaborate with",
+      "examples": [
+        "Die Abteilung arbeitet {mit} einem externen Team zusammen."
+      ]
+    },
+    {
+      "id": "ueberzeugen-von-dat",
+      "verb": "überzeugen",
+      "preposition": "von",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "B1",
+      "translation": "to convince of",
+      "examples": [
+        "Die Zahlen überzeugen uns {von} dem Nutzen der Änderung."
+      ]
+    },
+    {
+      "id": "verlieben-in-akk",
+      "verb": "verlieben",
+      "preposition": "in",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "B1",
+      "translation": "to fall in love with",
+      "examples": [
+        "Er hat sich {in} seine Kollegin verliebt."
+      ]
+    },
+    {
+      "id": "handeln-um-akk",
+      "verb": "handeln",
+      "preposition": "um",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "B1",
+      "translation": "to concern; to be about",
+      "examples": [
+        "Es handelt sich {um} einen Irrtum."
+      ]
+    },
+    {
+      "id": "verzichten-auf-akk",
+      "verb": "verzichten",
+      "preposition": "auf",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "B1",
+      "translation": "to do without",
+      "examples": [
+        "Heute verzichte ich {auf} das Auto."
+      ]
+    },
+    {
+      "id": "achten-auf-akk",
+      "verb": "achten",
+      "preposition": "auf",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "B1",
+      "translation": "to pay attention to",
+      "examples": [
+        "Achte {auf} den Verkehr."
+      ]
+    },
+    {
+      "id": "schuetzen-vor-dat",
+      "verb": "schützen",
+      "preposition": "vor",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "B1",
+      "translation": "to protect from",
+      "examples": [
+        "Die Creme schützt die Haut {vor} der Sonne."
+      ]
+    },
+    {
+      "id": "warnen-vor-dat",
+      "verb": "warnen",
+      "preposition": "vor",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "B1",
+      "translation": "to warn about",
+      "examples": [
+        "Die Polizei warnt {vor} dem Sturm."
+      ]
+    },
+    {
+      "id": "wenden-an-akk",
+      "verb": "wenden",
+      "preposition": "an",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "B1",
+      "translation": "to turn to",
+      "examples": [
+        "Bitte wende dich {an} den Kundenservice."
+      ]
+    },
+    {
+      "id": "halten-fuer-akk",
+      "verb": "halten",
+      "preposition": "für",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "B1",
+      "translation": "to consider to be",
+      "examples": [
+        "Ich halte ihn {für} einen guten Freund."
+      ]
+    },
+    {
+      "id": "streiten-ueber-akk",
+      "verb": "streiten",
+      "preposition": "über",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "B1",
+      "translation": "to argue about",
+      "examples": [
+        "Die Geschwister streiten sich {über} das Taschengeld."
+      ],
+      "acceptedPrepositions": [
+        "um"
+      ],
+      "notes": "Um das Taschengeld is also idiomatic here, emphasizing what the dispute is over."
+    },
+    {
+      "id": "leiden-an-dat",
+      "verb": "leiden",
+      "preposition": "an",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "B1",
+      "translation": "to suffer from an illness",
+      "examples": [
+        "Sie leidet {an} einer seltenen Krankheit."
+      ],
+      "acceptedPrepositions": [
+        "unter"
+      ]
+    },
+    {
+      "id": "leiden-unter-dat",
+      "verb": "leiden",
+      "preposition": "unter",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "B1",
+      "translation": "to suffer under; to be affected by",
+      "examples": [
+        "Die Pflanzen leiden {unter} der großen Hitze."
+      ]
+    },
+    {
+      "id": "fragen-um-akk",
+      "verb": "fragen",
+      "preposition": "um",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "B1",
+      "translation": "to ask someone for",
+      "examples": [
+        "Ich frage den Arzt {um} Rat."
+      ]
+    },
+    {
+      "id": "sorgen-fuer-akk",
+      "verb": "sorgen",
+      "preposition": "für",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "B1",
+      "translation": "to provide for; to take care of",
+      "examples": [
+        "Der Verein sorgt {für} ausreichend Essen."
+      ]
+    },
+    {
+      "id": "sorgen-um-akk",
+      "verb": "sorgen",
+      "preposition": "um",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "B1",
+      "translation": "to worry about",
+      "examples": [
+        "Sie sorgt sich {um} ihren Bruder."
+      ]
+    },
+    {
+      "id": "entscheiden-gegen-akk",
+      "verb": "entscheiden",
+      "preposition": "gegen",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "B1",
+      "translation": "to decide against",
+      "examples": [
+        "Wir entscheiden uns {gegen} den Kauf."
+      ]
+    },
+    {
+      "id": "werben-um-akk",
+      "verb": "werben",
+      "preposition": "um",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "B1",
+      "translation": "to seek; to court",
+      "examples": [
+        "Er wirbt {um} ihre Zustimmung."
+      ]
+    },
+    {
+      "id": "werben-fuer-akk",
+      "verb": "werben",
+      "preposition": "für",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "B1",
+      "translation": "to advertise; to campaign for",
+      "examples": [
+        "Sie wirbt {für} das neue Produkt."
+      ]
+    },
+    {
+      "id": "erfahren-von-dat",
+      "verb": "erfahren",
+      "preposition": "von",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "B1",
+      "translation": "to hear about",
+      "examples": [
+        "Ich habe {von} dem Unfall erfahren."
+      ]
+    },
+    {
+      "id": "berichten-ueber-akk",
+      "verb": "berichten",
+      "preposition": "über",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "B1",
+      "translation": "to report on",
+      "examples": [
+        "Die Zeitung berichtet {über} den Prozess."
+      ]
+    },
+    {
+      "id": "berichten-von-dat",
+      "verb": "berichten",
+      "preposition": "von",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "B1",
+      "translation": "to report about",
+      "examples": [
+        "Er berichtet {von} seiner Reise."
+      ]
+    },
+    {
+      "id": "schreiben-an-akk",
+      "verb": "schreiben",
+      "preposition": "an",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "B1",
+      "translation": "to write to",
+      "examples": [
+        "Ich schreibe {an} meine Schwester."
+      ]
+    },
+    {
+      "id": "schreiben-ueber-akk",
+      "verb": "schreiben",
+      "preposition": "über",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "B1",
+      "translation": "to write about",
+      "examples": [
+        "Sie schreibt {über} ihren Beruf."
+      ]
+    },
+    {
+      "id": "hoffen-auf-akk",
+      "verb": "hoffen",
+      "preposition": "auf",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "B1",
+      "translation": "to hope for",
+      "examples": [
+        "Wir hoffen {auf} gutes Wetter."
+      ]
+    },
+    {
+      "id": "reagieren-auf-akk",
+      "verb": "reagieren",
+      "preposition": "auf",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "B1",
+      "translation": "to react to",
+      "examples": [
+        "Wie reagierst du {auf} die Nachricht?"
+      ]
+    },
+    {
+      "id": "hinweisen-auf-akk",
+      "verb": "hinweisen",
+      "preposition": "auf",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "B1",
+      "translation": "to point out",
+      "examples": [
+        "Der Lehrer weist {auf} einen Fehler hin."
+      ]
+    },
+    {
+      "id": "stossen-auf-akk",
+      "verb": "stoßen",
+      "preposition": "auf",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "B1",
+      "translation": "to come across",
+      "examples": [
+        "Beim Aufräumen stieß ich {auf} ein altes Foto."
+      ]
+    },
+    {
+      "id": "beziehen-auf-akk",
+      "verb": "beziehen",
+      "preposition": "auf",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "B1",
+      "translation": "to refer to",
+      "examples": [
+        "Der Artikel bezieht sich {auf} ein neues Gesetz."
+      ]
+    },
+    {
+      "id": "ankommen-auf-akk",
+      "verb": "ankommen",
+      "preposition": "auf",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "B1",
+      "translation": "to depend on",
+      "examples": [
+        "Es kommt {auf} das richtige Timing an."
+      ]
+    },
+    {
+      "id": "absehen-von-dat",
+      "verb": "absehen",
+      "preposition": "von",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "B1",
+      "translation": "to refrain from",
+      "examples": [
+        "Wir sehen {von} weiteren Maßnahmen ab."
+      ]
+    },
+    {
+      "id": "abraten-von-dat",
+      "verb": "abraten",
+      "preposition": "von",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "B1",
+      "translation": "to advise against",
+      "examples": [
+        "Der Arzt rät mir {von} diesem Medikament ab."
+      ]
+    },
+    {
+      "id": "raten-zu-dat",
+      "verb": "raten",
+      "preposition": "zu",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "B1",
+      "translation": "to advise; to recommend",
+      "examples": [
+        "Ich rate dir {zu} einer Pause."
+      ]
+    },
+    {
+      "id": "zwingen-zu-dat",
+      "verb": "zwingen",
+      "preposition": "zu",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "B1",
+      "translation": "to force to",
+      "examples": [
+        "Niemand zwingt dich {zu} einer Entscheidung."
+      ]
+    },
+    {
+      "id": "fuehren-zu-dat",
+      "verb": "führen",
+      "preposition": "zu",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "B1",
+      "translation": "to lead to",
+      "examples": [
+        "Der Fehler führte {zu} einer Verzögerung."
+      ]
+    },
+    {
+      "id": "beitragen-zu-dat",
+      "verb": "beitragen",
+      "preposition": "zu",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "B1",
+      "translation": "to contribute to",
+      "examples": [
+        "Regelmäßiges Üben trägt {zu} schnellen Fortschritten bei."
+      ]
+    },
+    {
+      "id": "auseinandersetzen-mit-dat",
+      "verb": "auseinandersetzen",
+      "preposition": "mit",
+      "case": "dativ",
+      "reflexive": true,
+      "level": "B1",
+      "translation": "to engage with; to examine",
+      "examples": [
+        "Wir setzen uns {mit} dem Problem auseinander."
+      ]
+    },
+    {
+      "id": "beklagen-ueber-akk",
+      "verb": "beklagen",
+      "preposition": "über",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "B1",
+      "translation": "to complain about",
+      "examples": [
+        "Der Anwohner beklagt sich {über} den Lärm."
+      ]
+    },
+    {
+      "id": "beschweren-bei-dat",
+      "verb": "beschweren",
+      "preposition": "bei",
+      "case": "dativ",
+      "reflexive": true,
+      "level": "B1",
+      "translation": "to complain to",
+      "examples": [
+        "Ich beschwere mich {bei} der Hausverwaltung."
+      ]
+    },
+    {
+      "id": "bewerben-bei-dat",
+      "verb": "bewerben",
+      "preposition": "bei",
+      "case": "dativ",
+      "reflexive": true,
+      "level": "B1",
+      "translation": "to apply to",
+      "examples": [
+        "Sie bewirbt sich {bei} einer Bank."
+      ]
+    },
+    {
+      "id": "einlassen-auf-akk",
+      "verb": "einlassen",
+      "preposition": "auf",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "B1",
+      "translation": "to get involved in",
+      "examples": [
+        "Ich lasse mich {auf} das Abenteuer ein."
+      ]
+    },
+    {
+      "id": "distanzieren-von-dat",
+      "verb": "distanzieren",
+      "preposition": "von",
+      "case": "dativ",
+      "reflexive": true,
+      "level": "B2",
+      "translation": "to distance oneself from",
+      "examples": [
+        "Die Organisation distanziert sich {von} dem Aufruf."
+      ]
+    },
+    {
+      "id": "ergeben-aus-dat",
+      "verb": "ergeben",
+      "preposition": "aus",
+      "case": "dativ",
+      "reflexive": true,
+      "level": "B2",
+      "translation": "to result from",
+      "examples": [
+        "Die Schwierigkeit ergibt sich {aus} der neuen Regel."
+      ]
+    },
+    {
+      "id": "resultieren-aus-dat",
+      "verb": "resultieren",
+      "preposition": "aus",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "B2",
+      "translation": "to result from",
+      "examples": [
+        "Der Schaden resultiert {aus} einem technischen Fehler."
+      ]
+    },
+    {
+      "id": "basieren-auf-dat",
+      "verb": "basieren",
+      "preposition": "auf",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "B2",
+      "translation": "to be based on",
+      "examples": [
+        "Die Studie basiert {auf} verlässlichen Daten."
+      ]
+    },
+    {
+      "id": "beruhen-auf-dat",
+      "verb": "beruhen",
+      "preposition": "auf",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "B2",
+      "translation": "to be based on",
+      "examples": [
+        "Der Verdacht beruht {auf} einem Missverständnis."
+      ]
+    },
+    {
+      "id": "zurueckfuehren-auf-akk",
+      "verb": "zurückführen",
+      "preposition": "auf",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "B2",
+      "translation": "to attribute to",
+      "examples": [
+        "Die Fachleute führen den Rückgang {auf} mehrere Ursachen zurück."
+      ]
+    },
+    {
+      "id": "abstammen-von-dat",
+      "verb": "abstammen",
+      "preposition": "von",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "B2",
+      "translation": "to descend from",
+      "examples": [
+        "Die Familie stammt {von} einem alten Adelsgeschlecht ab."
+      ]
+    },
+    {
+      "id": "schliessen-auf-akk",
+      "verb": "schließen",
+      "preposition": "auf",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "B2",
+      "translation": "to infer; to conclude",
+      "examples": [
+        "Aus dem Tonfall schloss sie {auf} einen Streit."
+      ]
+    },
+    {
+      "id": "richten-nach-dat",
+      "verb": "richten",
+      "preposition": "nach",
+      "case": "dativ",
+      "reflexive": true,
+      "level": "B2",
+      "translation": "to follow; to be guided by",
+      "examples": [
+        "Wir richten uns {nach} den geltenden Regeln."
+      ]
+    },
+    {
+      "id": "sehnen-nach-dat",
+      "verb": "sehnen",
+      "preposition": "nach",
+      "case": "dativ",
+      "reflexive": true,
+      "level": "B2",
+      "translation": "to long for",
+      "examples": [
+        "Nach dem Umzug sehnt er sich {nach} seiner Heimat."
+      ]
+    },
+    {
+      "id": "streben-nach-dat",
+      "verb": "streben",
+      "preposition": "nach",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "B2",
+      "translation": "to strive for",
+      "examples": [
+        "Das Team strebt {nach} einer dauerhaften Lösung."
+      ]
+    },
+    {
+      "id": "orientieren-an-dat",
+      "verb": "orientieren",
+      "preposition": "an",
+      "case": "dativ",
+      "reflexive": true,
+      "level": "B2",
+      "translation": "to base oneself on",
+      "examples": [
+        "Die Auswahl orientiert sich {an} den Bedürfnissen der Kunden."
+      ]
+    },
+    {
+      "id": "zurueckkommen-auf-akk",
+      "verb": "zurückkommen",
+      "preposition": "auf",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "B2",
+      "translation": "to return to a topic",
+      "examples": [
+        "Später komme ich {auf} deinen Vorschlag zurück."
+      ]
+    },
+    {
+      "id": "bestehen-in-dat",
+      "verb": "bestehen",
+      "preposition": "in",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "B2",
+      "translation": "to consist in",
+      "examples": [
+        "Der Unterschied besteht {in} der Reihenfolge."
+      ]
+    },
+    {
+      "id": "berufen-auf-akk",
+      "verb": "berufen",
+      "preposition": "auf",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "B2",
+      "translation": "to invoke; to cite",
+      "examples": [
+        "Sie beruft sich {auf} ihr Recht."
+      ]
+    },
+    {
+      "id": "abfinden-mit-dat",
+      "verb": "abfinden",
+      "preposition": "mit",
+      "case": "dativ",
+      "reflexive": true,
+      "level": "B2",
+      "translation": "to come to terms with",
+      "examples": [
+        "Er findet sich {mit} der Entscheidung ab."
+      ]
+    },
+    {
+      "id": "abwenden-von-dat",
+      "verb": "abwenden",
+      "preposition": "von",
+      "case": "dativ",
+      "reflexive": true,
+      "level": "B2",
+      "translation": "to turn away from",
+      "examples": [
+        "Sie wendet sich {von} der Straße ab."
+      ]
+    },
+    {
+      "id": "anpassen-an-akk",
+      "verb": "anpassen",
+      "preposition": "an",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "B2",
+      "translation": "to adapt to",
+      "examples": [
+        "Wir passen uns {an} die neue Lage an."
+      ]
+    },
+    {
+      "id": "festlegen-auf-akk",
+      "verb": "festlegen",
+      "preposition": "auf",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "B2",
+      "translation": "to commit oneself to",
+      "examples": [
+        "Ich lege mich {auf} einen Termin fest."
+      ]
+    },
+    {
+      "id": "einigen-ueber-akk",
+      "verb": "einigen",
+      "preposition": "über",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "B2",
+      "translation": "to agree about",
+      "examples": [
+        "Die Parteien einigen sich {über} den Preis."
+      ],
+      "acceptedPrepositions": [
+        "auf"
+      ]
+    },
+    {
+      "id": "aussprechen-fuer-akk",
+      "verb": "aussprechen",
+      "preposition": "für",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "B2",
+      "translation": "to speak in favor of",
+      "examples": [
+        "Der Ausschuss spricht sich {für} den Vorschlag aus."
+      ]
+    },
+    {
+      "id": "aussprechen-gegen-akk",
+      "verb": "aussprechen",
+      "preposition": "gegen",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "B2",
+      "translation": "to speak against",
+      "examples": [
+        "Die Gruppe spricht sich {gegen} eine Verlängerung aus."
+      ]
+    },
+    {
+      "id": "auswirken-auf-akk",
+      "verb": "auswirken",
+      "preposition": "auf",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "B2",
+      "translation": "to affect",
+      "examples": [
+        "Die Änderung wirkt sich {auf} den Zeitplan aus."
+      ]
+    },
+    {
+      "id": "niederschlagen-in-dat",
+      "verb": "niederschlagen",
+      "preposition": "in",
+      "case": "dativ",
+      "reflexive": true,
+      "level": "B2",
+      "translation": "to be reflected in",
+      "examples": [
+        "Der Erfolg schlägt sich {in} den Verkaufszahlen nieder."
+      ]
+    },
+    {
+      "id": "liegen-an-dat",
+      "verb": "liegen",
+      "preposition": "an",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "B2",
+      "translation": "to be due to",
+      "examples": [
+        "Die Verzögerung liegt {an} einem fehlenden Dokument."
+      ]
+    },
+    {
+      "id": "scheitern-an-dat",
+      "verb": "scheitern",
+      "preposition": "an",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "B2",
+      "translation": "to fail because of",
+      "examples": [
+        "Der Versuch scheiterte {an} einem kleinen Detail."
+      ]
+    },
+    {
+      "id": "festhalten-an-dat",
+      "verb": "festhalten",
+      "preposition": "an",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "B2",
+      "translation": "to stick to",
+      "examples": [
+        "Trotz der Kritik hält sie {an} ihrem Plan fest."
+      ]
+    },
+    {
+      "id": "zaehlen-auf-akk",
+      "verb": "zählen",
+      "preposition": "auf",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "B2",
+      "translation": "to count on",
+      "examples": [
+        "Du kannst {auf} meine Unterstützung zählen."
+      ]
+    },
+    {
+      "id": "zusammenhaengen-mit-dat",
+      "verb": "zusammenhängen",
+      "preposition": "mit",
+      "case": "dativ",
+      "reflexive": false,
+      "level": "B2",
+      "translation": "to be connected with",
+      "examples": [
+        "Der Fehler hängt {mit} einer alten Einstellung zusammen."
+      ]
+    },
+    {
+      "id": "verfuegen-ueber-akk",
+      "verb": "verfügen",
+      "preposition": "über",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "B2",
+      "translation": "to have at one's disposal",
+      "examples": [
+        "Das Labor verfügt {über} moderne Geräte."
+      ]
+    },
+    {
+      "id": "abstimmen-ueber-akk",
+      "verb": "abstimmen",
+      "preposition": "über",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "B2",
+      "translation": "to vote on",
+      "examples": [
+        "Morgen stimmen wir {über} den Antrag ab."
+      ]
+    },
+    {
+      "id": "abstimmen-mit-dat",
+      "verb": "abstimmen",
+      "preposition": "mit",
+      "case": "dativ",
+      "reflexive": true,
+      "level": "B2",
+      "translation": "to coordinate with",
+      "examples": [
+        "Wir stimmen uns {mit} der Projektleitung ab."
+      ]
+    },
+    {
+      "id": "erkundigen-bei-dat",
+      "verb": "erkundigen",
+      "preposition": "bei",
+      "case": "dativ",
+      "reflexive": true,
+      "level": "B2",
+      "translation": "to inquire at",
+      "examples": [
+        "Ich erkundige mich {bei} der Behörde."
+      ]
+    },
+    {
+      "id": "richten-an-akk",
+      "verb": "richten",
+      "preposition": "an",
+      "case": "akkusativ",
+      "reflexive": true,
+      "level": "B2",
+      "translation": "to address to",
+      "examples": [
+        "Die Einladung richtet sich {an} alle Mitglieder."
+      ]
+    },
+    {
+      "id": "zurueckgreifen-auf-akk",
+      "verb": "zurückgreifen",
+      "preposition": "auf",
+      "case": "akkusativ",
+      "reflexive": false,
+      "level": "B2",
+      "translation": "to resort to",
+      "examples": [
+        "In der Diskussion griff er {auf} ein älteres Beispiel zurück."
+      ]
+    }
+  ],
+  "needsReview": []
+}

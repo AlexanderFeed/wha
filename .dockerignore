@@ -1,0 +1,11 @@
+.git
+.gitignore
+.env
+web/node_modules
+web/dist
+data/sources
+data/words.jsonl
+__pycache__
+*.pyc
+server.exe
+server.exe~
